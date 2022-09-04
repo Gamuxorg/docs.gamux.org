@@ -1,2 +1,3 @@
-# gamuxdocs.github.io
-documents of gamux.org!
+# Headline
+
+> An awesome project.
